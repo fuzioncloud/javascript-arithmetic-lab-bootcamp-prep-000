@@ -1,32 +1,15 @@
+add(
+  
+)
 
-function add() {
+subtract(
+  
+)
 
-}
+multiply(
+  
+)
 
-function subtract() {
-
-}
-
-function multiply() {
-
-}
-
-function divide() {
-
-}
-
-function () {
-
-}
-
-function () {
-
-}
-
-function () {
-
-}
-
-function () {
-
-}
+divide(
+  
+)
