@@ -1,15 +1,15 @@
 add(
-  
+
 )
 
 subtract(
-  
+
 )
 
 multiply(
-  
+
 )
 
 divide(
-  
+
 )
