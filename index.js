@@ -1,15 +1,15 @@
-add(
+add(x, y) {
+  return x + y  
+}
 
-)
+subtract(x, y) {
+  return x - y 
+}
 
-subtract(
+multiply(x, y) {
+  return x * y
+}
 
-)
-
-multiply(
-
-)
-
-divide(
-
-)
+divide(x, y) {
+  return x / y
+}
